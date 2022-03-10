@@ -20,3 +20,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay18iitg&" alt="akshay18iitg" /></p>
 
+<h2 align="left">Projects</h2>
+
+<h3 align='left'>Classification Algorithms</h3> 
+<h3 align='left'>Regression Algorithms</h3>
+<h3 align='left'>Image Classification</h3>
+- <a href = 'https://github.com/akshay18iitg/Competition-Notebooks/blob/main/dphi_data_sprint_65_%233.py'>Unbalanced Dockship Image Classification</a>
+<h3 align='left'>Object Detection</h3>
+<h3 align='left'>Image Segmentation</h3>
+<h3 align='left'>Face Recognition</h3>
+<h3 align='left'>GANs</h3>
+<h3 align='left'>Autoencoders</h3>
+<h3 align='left'>Reinforcement Learning</h3>
+<h3 align='left'>Autonomous Vehicle</h3>
