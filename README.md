@@ -23,13 +23,44 @@
 <h2 align="left">Projects</h2>
 
 <h3 align='left'>Classification Algorithms</h3> 
+
+- <a href = 'https://github.com/akshay18iitg/Sentiment-Analysis-on-Twitter-Comments/tree/main/ml%20techniques'>Sentiment Analysis using machine Learning techniques</a>
+- <a href = '#'>Obstacle Prediction for autonomous vehicle</a>
 <h3 align='left'>Regression Algorithms</h3>
+
+- <a href = '#'>Lidar car detection for autonomous vehicle</a>
 <h3 align='left'>Image Classification</h3>
+
 - <a href = 'https://github.com/akshay18iitg/Competition-Notebooks/blob/main/dphi_data_sprint_65_%233.py'>Unbalanced Dockship Image Classification</a>
+- <a href = 'https://github.com/akshay18iitg/Digit-Recognization-using-Deep-Learning-Techniques'>Digit Recognization using Deep Learning</a>
+- <a href = 'https://github.com/akshay18iitg/Leaf-Species-Recognization'>Leaf Species Recognization using Deep Learning</a>
 <h3 align='left'>Object Detection</h3>
+
+- <a href = 'https://github.com/akshay18iitg/Object-Detection-on-BCCD-Dataset'>BCCD Object Detection using Tensorflow</a>
+- <a href = '#'>Object detection for autonomous vehicle</a>
+
 <h3 align='left'>Image Segmentation</h3>
+
+- <a href = '#'>UNet for Carvana Masking Task</a>
+- <a href = '#'>UNetplusplus for Carnava Masking Task</a>
 <h3 align='left'>Face Recognition</h3>
 <h3 align='left'>GANs</h3>
 <h3 align='left'>Autoencoders</h3>
 <h3 align='left'>Reinforcement Learning</h3>
+
+- <a href = '#'>DQN with high level planner for autonomous vehicle</a>
+- <a href = '#'>Double DQN with high level planner for autonomus vehicle</a>
+
 <h3 align='left'>Autonomous Vehicle</h3>
+
+- <a href = '#'>Imitation Learning for autonomous vehicle</a>
+- <a href = '#'>Conditional Imitation Learning for autonomous vehicle</a>
+
+<h3 align='left'>Natural Language Processing</h3>
+
+- <a href = 'https://github.com/akshay18iitg/Sentiment-Analysis-on-Twitter-Comments/tree/main/nlp%20dataset'>Sentiment Analysis using nlp techniques</a>
+- <a href = 'https://github.com/akshay18iitg/Stock-Market-Prediction-for-5-Indian-Companies'>Stock market prediction</a>
+
+<h3 align='left'>Unsupervised Larning</h3>
+
+- <a href = '#'>Environment Classification using image clustering for autonomous vehicle</a>
