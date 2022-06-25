@@ -64,3 +64,9 @@
 <h3 align='left'>Unsupervised Larning</h3>
 
 - <a href = '#'>Environment Classification using image clustering for autonomous vehicle</a>
+
+
+<h2 align="left">Blogs</h2>
+
+- <a href = 'https://medium.com/@akshayhitendrashah/unravelling-single-shot-multi-box-detector-ssd-7def1834e925'>Unravelling Single Shot Multi-box Detector (SSD)</a>
+- <a href = 'https://medium.com/@akshayhitendrashah/treasure-of-natural-language-processing-nlp-50e68d07d33d'>Treasure of Natural Language Processing - Machine Translation and Attention</a>
